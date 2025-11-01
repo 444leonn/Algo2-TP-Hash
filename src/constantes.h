@@ -23,6 +23,8 @@
 #define VALOR_POSITIVO 1
 #define VALOR_NEGATIVO -1
 
+#define ERROR -1
+
 #define OPCION_ID "idIDIdiD"
 #define OPCION_NOMBRE "nombrenombrEnombREnomBREnoMBREnOMBRENOMBRE"
 
